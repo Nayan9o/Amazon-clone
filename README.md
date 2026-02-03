@@ -1,3 +1,3 @@
-# Amazon-clone using HTML,CSS and JavaScript
+# Amazon-clone using HTML5 and CSS3
  Sharping the concept <br>
  
