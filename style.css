@@ -102,3 +102,28 @@ span{
   font-size: 0.85rem;
   font-weight: 700;
 }
+
+/*panel*/
+
+.panel{
+  display: flex;
+  height: 40px;
+  background-color: #222f3d;
+  color: white;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.panel-options p{
+  display: inline;
+  font-size: 0.85rem;
+  margin-left: 15px;
+}
+.panel-options{
+  width: 70%;
+}
+
+.panel-deals{
+    font-size: 0.9rem;
+  font-weight: 700;
+}
